@@ -10,4 +10,4 @@ No more lists on scraps of papers! Download the AFMussap Tech Shopping List App 
 
 Available for Android™.
 
-![](/images/google-play-badge-200x59.png)
+[![](/images/google-play-badge-200x59.png)](https://play.google.com/store/apps/details?id=mussapappsshoppinglist.fmussap.com.shoppinglist)
