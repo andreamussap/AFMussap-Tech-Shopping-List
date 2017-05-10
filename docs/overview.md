@@ -9,3 +9,5 @@ Other features include:
 No more lists on scraps of papers! Download the AFMussap Tech Shopping List App and start to organize your shop now. It’s free!
 
 Available for Android™.
+
+![](/images/google-play-badge-200x59.png)
