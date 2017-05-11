@@ -1,3 +1,5 @@
+## Overview
+
 The Shopping List App developed by AFMussap Tech is the simplest way to organize your grocery lists. It's main feature, the integration with Google's native voice recognition, allows you to say the items you to want to include in the list, which saves a lot of time and typing.
 
 Other features include:
