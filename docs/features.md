@@ -1,8 +1,8 @@
-# The **Shopping List** App allows you to create shopping lists with several practical features
+## The **Shopping List** App allows you to create shopping lists with several practical features
 
 Custom Lists
 ---
-For better organization, you can create lists with different colors. It is possible to include numbers and _emoji_ in the names of the lists.
+For better organization you can create lists with different colors. It is possible to include numbers and _emoji_ in the name of the lists.
 To *edit* or *delete* a list, simply slide its name to the right and select the desired option.
 
 Items
