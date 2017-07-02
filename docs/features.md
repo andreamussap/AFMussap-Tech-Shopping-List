@@ -1,4 +1,4 @@
-## The **Shopping List** App allows you to create shopping lists with several practical features:
+# The **Shopping List** App allows you to create shopping lists with several practical features
 
 Custom Lists
 ---
