@@ -10,4 +10,4 @@ In the search results, tap the App to access it, and then click **Install**.
 
 ![](/images/Tap-App.png)![](/images/Install.png)
 
-> It’s also possible to find the App by searching for ‘Shopping List’, but in this case the search result will also display a lot of other Apps together with it.
+> We don't advise you to search for **Shopping List** on Google Play, because this will display a lot of other Apps in the result list and you may have a hard time to find our App. 
