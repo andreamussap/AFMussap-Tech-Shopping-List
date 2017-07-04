@@ -20,9 +20,7 @@ You can also include numbers and *emoji* in the name of the list.
 
 > If you don't type anything or try to use special characters, such as {([.$#/\])}, the App will display a message: *Ops, you can't use {([.$#/\])} or an empty list name*
 
-You can choose among five different colors create your lists.
-
-*Example*
+You can choose among five different colours create your lists.
 
 ![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/tree/master/docs/images/custom_list_create_04.jpg)
 
@@ -43,4 +41,4 @@ To *delete* all lists at once just tap the List Menu button and select **Remove 
 
 At the end of this tutorial, you will have your Shopping list ready to be populated with its items.
 
-Now, refer to Tutorial - [Items] (https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/items.md) to learn more about this section.
+Now, refer to Tutorial - [Items](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/items.md) to learn more about this section.
