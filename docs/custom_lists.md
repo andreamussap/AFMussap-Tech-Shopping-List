@@ -41,4 +41,4 @@ To *delete* all lists at once just tap the List Menu button and select **Remove 
 
 At the end of this tutorial, you will have your Shopping list ready to be populated with its items.
 
-Now, refer to Tutorial - [Items](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/items.md) to learn more about this section.
+Now refer to [Tutorial - Items](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/items.md) to learn more about this section.
