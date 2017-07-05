@@ -1,9 +1,9 @@
-#Tutorial - Custom Lists
+# Tutorial - Custom Lists
 
 With **Shopping List** App you can create custom lists to better organize your shopping.
 
-##Create a New List
----
+## Create a New List
+
 To create a new list, tap the button 'Add'
 
 ![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/shop-list-button-new-list.png "Create new List")
@@ -28,7 +28,6 @@ You can choose among five different colours to create your lists.
 
 
 ## Edit or Delete a List
----
 
 You can *edit* a list either to change its name or its color. For that, slide it to the right and tap the button *Settings*
 
