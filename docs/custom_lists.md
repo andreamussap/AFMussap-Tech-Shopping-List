@@ -1,8 +1,8 @@
-# Tutorial - Custom Lists
+#Tutorial - Custom Lists
 
 With **Shopping List** App you can create custom lists to better organize your shopping.
 
-## Create a New List
+##Create a New List
 ---
 To create a new list, tap the button 'Add'
 
