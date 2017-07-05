@@ -30,7 +30,7 @@ You can choose among five different colours to create your lists.
 ## Edit or Delete a List
 
 
-You can edit a list either to change its name or its color. For that, slide it to the right and tap the button *Settings*
+You can edit a list to change its name or its color. For that, slide it to the right and tap the button *Settings*
 
 ![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/shop-list-button-edit-list.png "Edit a List")
 
