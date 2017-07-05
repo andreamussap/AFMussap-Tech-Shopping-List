@@ -13,7 +13,7 @@ In the window **Create a new list**, choose a color and type the name of the lis
 > Don't worry about capitalizing the list's name. Type everything in lowercase, and the App will capitalize every word for you. For instance, if you type: **my market**, the list will be created as **My Market**.
 
 
-You can also include numbers and *emoji* in the name of the list. 
+You can also use numbers and *emoji* in the name of the list. 
 
 ![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/custom_list_create_02.jpg "Create new List")
 
