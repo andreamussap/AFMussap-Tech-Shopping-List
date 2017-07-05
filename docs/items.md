@@ -30,7 +30,7 @@ While shopping, once you put an item into the basket, select it (~~strikethrough
 
 The selected item is sent to the end of the list of the coloured block that it belongs.
 
-*Example of ~~selected~ items:*
+*Example of a list with items selected (~~strikethrough~~):*
 
 ![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/items_08.jpg)
 
