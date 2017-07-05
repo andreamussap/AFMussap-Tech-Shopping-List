@@ -8,7 +8,7 @@ To create a new Item, tap the button 'Add'
 
 ![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/shop-list-button-new-list.png "Add a new item")
 
-In the window **Add a new item**, you either can type a name or use Google's native voice recognition to add it.
+In the window **Add a new item**, you can type a name or use Google's native voice recognition to add it.
 
 ![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/items_02.jpg)
 
@@ -38,7 +38,7 @@ To deselect the item, tap it again.
 
 ## Edit or Delete an Item
 
-You can edit an item either to change its name or its color. For that, slide it to the right and tap the button *Settings*
+You can edit an item to change its name or its color. For that, slide it to the right and tap the button *Settings*
 
 ![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/shop-list-button-edit-list.png)
 
