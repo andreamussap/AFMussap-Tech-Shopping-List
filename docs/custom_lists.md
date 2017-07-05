@@ -28,11 +28,11 @@ You can choose among five different colours create your lists.
 
 You can *edit* a list either to change its name or its color. For that, slide it to the right and tap the button:
 
-![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/tree/master/docs/images/shop-list-button-edit-list.png "Edit a List")
+![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/shop-list-button-edit-list.png "Edit a List")
 
 In the same way, to *delete* a list just slide it to the right and tap the button:
 
-![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/shop-list-button-delete-list.png "Delete a List").
+![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/shop-list-button-delete-list.png "Delete a List")
 
 To *delete* all lists at once just tap the List Menu button and select **Remove all lists**.
 
