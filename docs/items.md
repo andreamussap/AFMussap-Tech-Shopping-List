@@ -1,20 +1,20 @@
 # Tutorial - Items
 
-After you follow the steps from the previous section [Custom Lists](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/custom_lists.md) and create a new list, you can start to add items to the list.
+After you follow the steps from the previous section - [Custom Lists](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/custom_lists.md) - and create a new list, you can start to add items to it.
 
 ## Add Items to the List
 
-In the same way you did to create your list, just tap the button 'Add' to add a new item.
+To create a new Item, tap the button 'Add'
 
 ![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/shop-list-button-new-list.png "Add a new item")
 
-In the window **Add a new item**, you either can type or use Google's native voice recognition to add it.
+In the window **Add a new item**, you either can type a name or use Google's native voice recognition to add it.
+
+![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/items_02.jpg)
 
 ![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/items_04.jpg)
 
-After write or speech the name of the item, just tap **NEW** to add the item to the list. 
-
-![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/items_02.jpg)
+After write or speech the name of the item, tap **NEW** to add the item to the list. 
 
 > The list is ordered alphabetically.
 
@@ -26,7 +26,8 @@ It's possible to use the colour system to group items by section or similarity. 
 
 > Each coloured block is a sub-list inside your list.
 
-While shopping, once you put an item into the basket, select it (~~strikethrough it~~) for you to know what's already purchased. For that, just tap the item. 
+While shopping, once you put an item into the basket, select it (~~strikethrough it~~) for you to know what's already purchased. To select an item, just tap it. 
+
 The selected item is sent to the end of the list of the coloured block that it belongs.
 
 *Example of ~~selected~ items:*
@@ -37,11 +38,11 @@ To deselect the item, tap it again.
 
 ## Edit or Delete an Item
 
-You can *edit* an item either to change its name or its color. For that, slide it to the right and tap the button:
+You can edit an item either to change its name or its color. For that, slide it to the right and tap the button *Settings*
 
 ![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/shop-list-button-edit-list.png)
 
-In the same way, to *delete* a list just slide it to the right and tap the button:
+In the same way, to delete a list just slide it to the right and tap the button *Delete*
 
 ![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/shop-list-button-delete-list.png "Delete a List").
 
