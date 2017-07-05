@@ -1,4 +1,4 @@
-#Tutorial - Custom Lists
+# Tutorial - Custom Lists
 
 With **Shopping List** App you can create custom lists to better organize your shopping.
 
@@ -30,15 +30,15 @@ You can choose among five different colours to create your lists.
 ## Edit or Delete a List
 
 
-You can *edit* a list either to change its name or its color. For that, slide it to the right and tap the button *Settings*
+You can edit a list either to change its name or its color. For that, slide it to the right and tap the button *Settings*
 
 ![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/shop-list-button-edit-list.png "Edit a List")
 
-In the same way, to *delete* a list just slide it to the right and tap the button *Delete*
+In the same way, to delete a list just slide it to the right and tap the button *Delete*
 
 ![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/shop-list-button-delete-list.png "Delete a List")
 
-To delete **all** lists at once just tap the List Menu button and select **Remove all lists**.
+To delete **all** lists at once just tap the List Menu button (see image below) and select **Remove all lists**.
 
 ![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/shop-list-lists-menu.png "List Menu button")
 
