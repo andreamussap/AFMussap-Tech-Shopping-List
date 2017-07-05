@@ -21,7 +21,7 @@ You can also include numbers and *emoji* in the name of the list.
 
 > If you don't type anything or try to use special characters, such as {([.$#/\])}, the App will display a message: *Ops, you can't use {([.$#/\])} or an empty list name*
 
-
+---
 You can choose among five different colours to create your lists.
 
 ![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/custom_list_create_04.jpg)
