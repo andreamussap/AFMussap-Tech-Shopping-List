@@ -26,11 +26,11 @@ It's possible to use the colour system to group items by section or similarity. 
 
 > Each coloured block is a sub-list inside your list.
 
-While shopping, once you put an item into the basket, select it (~~strikethrough it~~) for you to know what's already purchased. To select an item, just tap it. 
+While shopping, once you put an item into the basket, select it ({--strikethrough it--}) for you to know what's already purchased. To select an item, just tap it. 
 
 The selected item is sent to the end of the list of the coloured block that it belongs.
 
-*Example of a list with selected (~~strikethrough~~) items:*
+*Example of a list with selected {--strikethrough it--}) items:*
 
 ![](/images/items_08.jpg)
 
