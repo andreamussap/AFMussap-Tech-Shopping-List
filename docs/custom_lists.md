@@ -9,7 +9,7 @@ To create a new list, tap the button 'Add'
 ![](/images/shop-list-button-new-list.png "Create new List")
 
 
-In the window **Create a new list**, choose a color and type the name of the list. Then, tap **Create**.
+On the window **Create a new list**, choose a color and type the name of the list. Then, tap **Create**.
 
 > Don't worry about capitalizing the list's name. Type everything in lowercase, and the App will capitalize every word for you. For instance, if you type: **my market**, the list will be created as **My Market**.
 
@@ -38,7 +38,6 @@ You can edit a list to change its name or its color. For that, slide it to the r
 In the same way, to delete a list just slide it to the right and tap the button *Delete*
 
 ![](/images/shop-list-button-delete-list.png "Delete a List")
-![](/images/shop-list-button-delete-list.png
 
 To delete **all** lists at once just tap the List Menu button (see image below) and select **Remove all lists**.
 
@@ -47,4 +46,4 @@ To delete **all** lists at once just tap the List Menu button (see image below) 
 
 At the end of this tutorial, you will have your Shopping list ready to be populated with its items.
 
-Now refer to [Tutorial - Items](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/items.md) to learn more about this section.
+Now refer to the tutorial **Items** to learn more about this section.

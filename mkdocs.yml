@@ -7,5 +7,5 @@ pages:
         - 'Items': 'items.md'
         - 'Sum': 'total_amount.md'
         - 'Menu options': 'menu_options.md'
-theme: readthedocs
+theme: material
 google_analytics: ['UA-45971598-3', 'auto']
