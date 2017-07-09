@@ -5,6 +5,7 @@ pages:
     - Features:
         - 'Custom Lists': 'custom_lists.md'
         - 'Items': 'items.md'
-        - 'General information': 'general.md'
+        - 'Sum': 'total_amount.md'
+        - 'Menu options': 'menu_options.md'
 theme: readthedocs
 google_analytics: ['UA-45971598-3', 'auto']
