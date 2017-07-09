@@ -1,7 +1,7 @@
 site_name: AFMussap Tech Shopping List
 pages:
     - Overview: 'index.md'
-    - Installation.md: 'installation.md'
+    - Installation: 'installation.md'
     - Features:
         - 'Custom Lists': 'custom_lists.md'
         - 'Items': 'items.md'

@@ -8,7 +8,7 @@ At the upper-right corner of your lists you'll find a Menu with these five optio
 * Remove all checked items
 * Remove all items
 
-![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/menu_options_02.jpg)
+![](/images/menu_options_02.jpg)
 
 
 ## Check all items

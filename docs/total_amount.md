@@ -4,4 +4,4 @@ When you fill in the value and quantity for an item, the **Shopping List** App p
 
 > The selection (~~strikethrough~~) of an item doesn't decrease its value from the sum.
 
-![](https://github.com/andreamussap/AFMussap-Tech-Shopping-List/blob/master/docs/images/sum_02.jpg)
+![](/images/sum_02.jpg)
