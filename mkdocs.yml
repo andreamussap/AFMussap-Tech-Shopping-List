@@ -13,3 +13,5 @@ google_analytics: ['UA-45971598-3', 'auto']
 markdown_extensions:
 - pymdownx.tilde
 - admonition
+- MagicLink
+- Critic
