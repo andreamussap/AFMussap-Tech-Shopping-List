@@ -12,6 +12,6 @@ theme: material
 google_analytics: ['UA-45971598-3', 'auto']
 markdown_extensions:
 - pymdownx.tilde
+- pymdownx.magiclink
+- pymdownx.critic
 - admonition
-- MagicLink
-- Critic
