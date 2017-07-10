@@ -3,10 +3,10 @@ pages:
 - Overview: 'index.md'
 - Installation: 'installation.md'
 - Features:
-	- Items: 'items.md'
-	- Custom Lists: 'custom_lists.md'
-	- Sum: 'total_amount.md'
-	- Menu options: 'menu_options.md'
+   - Items: 'items.md'
+   - Custom Lists: 'custom_lists.md'
+   - Sum: 'total_amount.md'
+   - Menu options: 'menu_options.md'
 - Contact Developer: 'contact.md'
 theme: material
 google_analytics: ['UA-45971598-3', 'auto']
