@@ -62,12 +62,12 @@
         },
         {
             "location": "/total_amount/",
-            "text": "Tutorial - Sum\n\n\nWhen you fill in the value and quantity for an item, the \nShopping List\n App promptly displays the sum of you purchase. Similary, if you remove or change the value or quantity, the sum is updated.\n\n\n\n\nTip\n\n\n\n\nThe selection {--strikethrough it--}) of an item doesn't decrease its value from the sum.",
+            "text": "Tutorial - Sum\n\n\nWhen you fill in the value and quantity for an item, the \nShopping List\n App promptly displays the sum of you purchase. Similary, if you remove or change the value or quantity, the sum is updated.\n\n\n\n\nTip\n\n\nThe selection \nstrikethrough\n of an item doesn't decrease its value from the sum.",
             "title": "Sum"
         },
         {
             "location": "/total_amount/#tutorial-sum",
-            "text": "When you fill in the value and quantity for an item, the  Shopping List  App promptly displays the sum of you purchase. Similary, if you remove or change the value or quantity, the sum is updated.   Tip   The selection {--strikethrough it--}) of an item doesn't decrease its value from the sum.",
+            "text": "When you fill in the value and quantity for an item, the  Shopping List  App promptly displays the sum of you purchase. Similary, if you remove or change the value or quantity, the sum is updated.   Tip  The selection  strikethrough  of an item doesn't decrease its value from the sum.",
             "title": "Tutorial - Sum"
         },
         {
