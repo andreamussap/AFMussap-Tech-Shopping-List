@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "Overview\n\n\nThe Shopping List App developed by AFMussap Tech is the simplest way to organize your grocery lists. Its main feature, the integration with Google's native voice recognition, allows you to speak the items you to want to include in the list, which saves a lot of time and typing.\n\n\nOther features include:\n\n\n\n\nCreate multiple shopping lists with different colors.\n\n\nEdit and delete lists and items\n\n\nTo group items using a simple color system\n\n\nSum of purchases as each item is inserted.\n\n\n\n\nNo more lists on scraps of papers! Download the AFMussap Tech Shopping List App and start to organize your shop now. It's free!\n\n\nAvailable for Android\u2122.",
+            "text": "Overview\n\n\nThe Shopping List App developed by AFMussap Tech is the simplest way to organize your grocery lists. Its main feature, the integration with Google's native voice recognition, allows you to \n speak \n the items you to want to include in the list, which saves a lot of time and typing.\n\n\nOther features include:\n\n\n\n\nCreate multiple shopping lists with different colors.\n\n\nEdit and delete lists and items\n\n\nTo group items using a simple color system\n\n\nSum of purchases as each item is inserted.\n\n\n\n\nNo more lists on scraps of papers! Download the AFMussap Tech Shopping List App and start to organize your shop now. It's free!\n\n\nAvailable for Android\u2122.",
             "title": "Overview"
         },
         {
             "location": "/#overview",
-            "text": "The Shopping List App developed by AFMussap Tech is the simplest way to organize your grocery lists. Its main feature, the integration with Google's native voice recognition, allows you to speak the items you to want to include in the list, which saves a lot of time and typing.  Other features include:   Create multiple shopping lists with different colors.  Edit and delete lists and items  To group items using a simple color system  Sum of purchases as each item is inserted.   No more lists on scraps of papers! Download the AFMussap Tech Shopping List App and start to organize your shop now. It's free!  Available for Android\u2122.",
+            "text": "The Shopping List App developed by AFMussap Tech is the simplest way to organize your grocery lists. Its main feature, the integration with Google's native voice recognition, allows you to   speak   the items you to want to include in the list, which saves a lot of time and typing.  Other features include:   Create multiple shopping lists with different colors.  Edit and delete lists and items  To group items using a simple color system  Sum of purchases as each item is inserted.   No more lists on scraps of papers! Download the AFMussap Tech Shopping List App and start to organize your shop now. It's free!  Available for Android\u2122.",
             "title": "Overview"
         },
         {
@@ -107,7 +107,7 @@
         },
         {
             "location": "/contact/",
-            "text": "Contact the Developer\n\n\nIf you'd like to contact the \nAFMussap Tech Developer\n just send us an email: \nafmussaptech@gmail.com\n\n\nRate the App\n\n\nIf you like The \nShopping List\n App developed by AFMussap Tech please rate us at \nGoogle Play",
+            "text": "Contact the Developer\n\n\nIf you'd like to contact the \nAFMussap Tech Developer\n just send us an email: \nafmussaptech@gmail.com\n\n\nRate the App\n\n\nIf you like the \nShopping List\n App developed by AFMussap Tech please rate us at \nGoogle Play",
             "title": "Contact Developer"
         },
         {
@@ -117,7 +117,7 @@
         },
         {
             "location": "/contact/#rate-the-app",
-            "text": "If you like The  Shopping List  App developed by AFMussap Tech please rate us at  Google Play",
+            "text": "If you like the  Shopping List  App developed by AFMussap Tech please rate us at  Google Play",
             "title": "Rate the App"
         }
     ]
