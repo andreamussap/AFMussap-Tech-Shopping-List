@@ -20,13 +20,13 @@
     
         
     <url>
-     <loc>/items/</loc>
+     <loc>/custom_lists/</loc>
      <lastmod>2017-07-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/custom_lists/</loc>
+     <loc>/items/</loc>
      <lastmod>2017-07-11</lastmod>
      <changefreq>daily</changefreq>
     </url>

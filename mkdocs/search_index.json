@@ -2,47 +2,27 @@
     "docs": [
         {
             "location": "/",
-            "text": "About Shopping List App\n\n\nThe Shopping List App developed by AFMussap Tech is the simplest way to organize your grocery lists. Its main feature, the integration with Google's native voice recognition, allows you to \n speak \n the items you to want to include in the list, which saves a lot of time and typing.\n\n\nOther features include:\n\n\n\n\nCreate multiple shopping lists with different colors.\n\n\nEdit and delete lists and items\n\n\nTo group items using a simple color system\n\n\nSum of purchases as each item is inserted.\n\n\n\n\nNo more lists on scraps of papers! Download the AFMussap Tech Shopping List App and start to organize your shop now. It's free!\n\n\nAvailable for Android\u2122.",
+            "text": "About Shopping List App\n\n\nThe Shopping List App developed by AFMussap Tech is the simplest way to organize your grocery lists. Its main feature, the integration with Google's native voice recognition, allows you to speak the items you to want to include in the list, which saves a lot of time and typing.\n\n\nOther features include:\n\n\n\n\nCreate multiple shopping lists with different colors.\n\n\nEdit and delete lists and items\n\n\nTo group items using a simple color system\n\n\nSum of purchases as each item is inserted.\n\n\n\n\nNo more lists on scraps of papers! Download the AFMussap Tech Shopping List App and start to organize your shop now. It's free!\n\n\nAvailable for Android\u2122.",
             "title": "Overview"
         },
         {
             "location": "/#about-shopping-list-app",
-            "text": "The Shopping List App developed by AFMussap Tech is the simplest way to organize your grocery lists. Its main feature, the integration with Google's native voice recognition, allows you to   speak   the items you to want to include in the list, which saves a lot of time and typing.  Other features include:   Create multiple shopping lists with different colors.  Edit and delete lists and items  To group items using a simple color system  Sum of purchases as each item is inserted.   No more lists on scraps of papers! Download the AFMussap Tech Shopping List App and start to organize your shop now. It's free!  Available for Android\u2122.",
+            "text": "The Shopping List App developed by AFMussap Tech is the simplest way to organize your grocery lists. Its main feature, the integration with Google's native voice recognition, allows you to speak the items you to want to include in the list, which saves a lot of time and typing.  Other features include:   Create multiple shopping lists with different colors.  Edit and delete lists and items  To group items using a simple color system  Sum of purchases as each item is inserted.   No more lists on scraps of papers! Download the AFMussap Tech Shopping List App and start to organize your shop now. It's free!  Available for Android\u2122.",
             "title": "About Shopping List App"
         },
         {
             "location": "/installation/",
-            "text": "Download and Install Shopping List\n\n\nThe easiest way to download and install the Shopping List App developed by AFMussap Tech in your smartphone is to \nclick here\n and access it straightway on Google Play. \n\n\nAlso, you can go to Google Play and search for \nAFMussap\n\n\n\n\nIn the search results, tap the App to access it and click \nInstall\n.\n\n\n\n\n\n\nWe don't advise you to search for \nShopping List\n on Google Play because this will display a lot of other Apps in the result list, and this can make it harder for you to find our App. \n\n\n\n\nThe Shopping List App requires \nAndroid 4.0.3 and up",
+            "text": "Download and Install Shopping List App\n\n\nThe easiest way to download and install the Shopping List App developed by AFMussap Tech in your smartphone is to \nclick here\n and access it straightway on Google Play. \n\n\nAlso, you can go to Google Play and search for \nAFMussap\n\n\n\n\nIn the search results, tap the App to access it and click \nInstall\n.\n\n\n\n\n\n\nWe don't advise you to search for \nShopping List\n on Google Play because this will display a lot of other Apps in the result list, and this can make it harder for you to find our App. \n\n\n\n\nThe Shopping List App requires \nAndroid 4.0.3 and up",
             "title": "Installation"
         },
         {
-            "location": "/installation/#download-and-install-shopping-list",
+            "location": "/installation/#download-and-install-shopping-list-app",
             "text": "The easiest way to download and install the Shopping List App developed by AFMussap Tech in your smartphone is to  click here  and access it straightway on Google Play.   Also, you can go to Google Play and search for  AFMussap   In the search results, tap the App to access it and click  Install .    We don't advise you to search for  Shopping List  on Google Play because this will display a lot of other Apps in the result list, and this can make it harder for you to find our App.    The Shopping List App requires  Android 4.0.3 and up",
-            "title": "Download and Install Shopping List"
-        },
-        {
-            "location": "/items/",
-            "text": "Tutorial - Items\n\n\nAfter you follow the steps from the previous tutorial - \nCustom Lists\n - and create a new list you can start to add items to it.\n\n\nAdd Items to the List\n\n\nTo create a new Item, tap the button 'Add'\n\n\n\n\nOn the window \nAdd a new item\n, you can type a name or use Google's native voice recognition to add an item to the list.\n\n\n\n\n\n\nAfter write or speech the name of the item, tap \nNEW\n to add the item to the list. \n\n\n\n\nThe list is ordered alphabetically.\n\n\n\n\nIt's possible to use the colour system to group items by section or similarity. This helps you to save time while doing your shopping. For example, for a market shopping list you can group fruits and vegetables in green, frozen food in blue, bakery in pink, etc.\n\n\n\n\nExample of a list using different colours\n\n\n\n\n\n\n\n\nEach coloured block is a sub-list inside your list.\n\n\n\n\nWhile shopping, once you put an item into the basket, select it (\nstrikethrough it\n) for you to know what's already purchased. To select an item, just tap it. \n\n\nThe selected item is sent to the end of the list of the coloured block that it belongs.\n\n\n\n\nExample of a list with selected (\nstrikethrough\n) items\n\n\n\n\n\n\nTo deselect an item, tap it again.\n\n\nEdit or Delete an Item\n\n\nYou can edit an item to change its name or its color. For that, slide it to the right and tap the button \nSettings\n\n\n\n\nIn the same way, to delete an item, slide it to the right and tap the button \nDelete\n\n\n.\n\n\nAt the end of this tutorial your Shopping list is ready.\n\n\nRefer to the tutorial \nSum\n (Total Purchased )to learn more about this section.",
-            "title": "Items"
-        },
-        {
-            "location": "/items/#tutorial-items",
-            "text": "After you follow the steps from the previous tutorial -  Custom Lists  - and create a new list you can start to add items to it.",
-            "title": "Tutorial - Items"
-        },
-        {
-            "location": "/items/#add-items-to-the-list",
-            "text": "To create a new Item, tap the button 'Add'   On the window  Add a new item , you can type a name or use Google's native voice recognition to add an item to the list.    After write or speech the name of the item, tap  NEW  to add the item to the list.    The list is ordered alphabetically.   It's possible to use the colour system to group items by section or similarity. This helps you to save time while doing your shopping. For example, for a market shopping list you can group fruits and vegetables in green, frozen food in blue, bakery in pink, etc.   Example of a list using different colours     Each coloured block is a sub-list inside your list.   While shopping, once you put an item into the basket, select it ( strikethrough it ) for you to know what's already purchased. To select an item, just tap it.   The selected item is sent to the end of the list of the coloured block that it belongs.   Example of a list with selected ( strikethrough ) items    To deselect an item, tap it again.",
-            "title": "Add Items to the List"
-        },
-        {
-            "location": "/items/#edit-or-delete-an-item",
-            "text": "You can edit an item to change its name or its color. For that, slide it to the right and tap the button  Settings   In the same way, to delete an item, slide it to the right and tap the button  Delete  .  At the end of this tutorial your Shopping list is ready.  Refer to the tutorial  Sum  (Total Purchased )to learn more about this section.",
-            "title": "Edit or Delete an Item"
+            "title": "Download and Install Shopping List App"
         },
         {
             "location": "/custom_lists/",
-            "text": "Tutorial - Custom Lists\n\n\nWith \nShopping List\n App you can create custom lists to better organize your shopping.\n\n\nCreate a New List\n\n\nTo create a new list, tap the button 'Add'\n\n\n\n\nOn the window \nCreate a new list\n, choose a color and type the name of the list. Then, tap \nCreate\n.\n\n\n\n\nDon't worry about capitalizing the list's name. Type everything in lowercase, and the App will capitalize every word for you. For instance, if you type: \nmy market\n, the list will be created as \nMy Market\n.\n\n\n\n\nYou can also use numbers and \nemoji\n in the name of the list. \n\n\n\n\n\n\n\n\nIf you try to use a name that already exists, the App will display a message: \nOps, List name already exists\n\n\n\n\n\n\nIf you don't type anything or try to use special characters, such as {([.$#/])}, the App will display a message: \nOps, you can't use {([.$#/])} or an empty list name\n\n\n\n\n\n\nYou can choose among five different colours to create your lists.\n\n\n\n\nEdit or Delete a List\n\n\nYou can edit a list to change its name or its color. For that, slide it to the right and tap the button \nSettings\n\n\n\n\nIn the same way, to delete a list just slide it to the right and tap the button \nDelete\n\n\n\n\nTo delete \nall\n lists at once just tap the List Menu button (see image below) and select \nRemove all lists\n.\n\n\n\n\nAt the end of this tutorial, you will have your Shopping list ready to be populated with its items.\n\n\nNow refer to the tutorial \nItems\n to learn more about this section.",
+            "text": "Tutorial - Custom Lists\n\n\nWith \nShopping List\n App you can create custom lists to better organize your shopping.\n\n\nCreate a New List\n\n\nTo create a new list, tap the button 'Add'\n\n\n\n\nOn the window \nCreate a new list\n, choose a color and type the name of the list. Then, tap \nCreate\n.\n\n\n\n\nDon't worry about capitalizing the list's name. Type everything in lowercase, and the App will capitalize every word for you. For instance, if you type: \nmy market\n, the list will be created as \nMy Market\n.\n\n\n\n\nYou can also use numbers and \nemoji\n in the name of the list. \n\n\n\n\n\n\n\n\nIf you try to use a name that already exists, the App will display a message: \nOps, List name already exists\n\n\n\n\n\n\nIf you don't type anything or try to use special characters, such as {([.$#/])}, the App will display a message: \nOps, you can't use {([.$#/])} or an empty list name\n\n\n\n\n\n\nYou can choose among five different colours to create your lists.\n\n\n\n\nEdit or Delete a List\n\n\nYou can edit a list to change its name or its color. For that, slide it to the right and tap the button \nSettings\n\n\n\n\nIn the same way, to delete a list just slide it to the right and tap the button \nDelete\n\n\n\n\nTo delete \nall\n lists at once just tap the List Menu button (see image below) and select \nRemove all lists\n.\n\n\n\n\nAt the end of this tutorial, you will have your Shopping list ready to be populated with its items.\n\n\nRefer to the tutorial \nItems\n to learn more about this section.",
             "title": "Custom Lists"
         },
         {
@@ -57,8 +37,28 @@
         },
         {
             "location": "/custom_lists/#edit-or-delete-a-list",
-            "text": "You can edit a list to change its name or its color. For that, slide it to the right and tap the button  Settings   In the same way, to delete a list just slide it to the right and tap the button  Delete   To delete  all  lists at once just tap the List Menu button (see image below) and select  Remove all lists .   At the end of this tutorial, you will have your Shopping list ready to be populated with its items.  Now refer to the tutorial  Items  to learn more about this section.",
+            "text": "You can edit a list to change its name or its color. For that, slide it to the right and tap the button  Settings   In the same way, to delete a list just slide it to the right and tap the button  Delete   To delete  all  lists at once just tap the List Menu button (see image below) and select  Remove all lists .   At the end of this tutorial, you will have your Shopping list ready to be populated with its items.  Refer to the tutorial  Items  to learn more about this section.",
             "title": "Edit or Delete a List"
+        },
+        {
+            "location": "/items/",
+            "text": "Tutorial - Items\n\n\nAfter you follow the steps on the \nCustom Lists\n tutorial and create a new list, you can start to add items to it.\n\n\nAdd Items to the List\n\n\nTo create a new Item tap the button 'Add'\n\n\n\n\nOn the window \nAdd a new item\n, you can type or use Google's native voice recognition to add an item to the list.\n\n\n\n\n\n\nAfter write or speak the name of the item, tap \nNEW\n to add it to the list. \n\n\n\n\nThe list is ordered alphabetically.\n\n\n\n\nIt's possible to use the colour system to group items by section or similarity. This helps you to save time while doing your shopping. For example, for a market shopping list you can group fruits and vegetables in green, frozen food in blue, bakery in pink, etc.\n\n\n\n\nExample of a list using different colours\n\n\n\n\n\n\n\n\nEach coloured block is a sub-list inside your list.\n\n\n\n\nWhile shopping, once you put an item into the basket, select it (\nstrikethrough it\n) to indicate that it's already purchased. To select an item, just tap it. \n\n\nThe selected item is sent to the end of the list of the coloured block that it belongs.\n\n\n\n\nExample of a list with selected (\nstrikethrough\n) items\n\n\n\n\n\n\nTo deselect an item, tap it again.\n\n\nEdit or Delete an Item\n\n\nYou can edit an item to change its name or its color. For that, slide it to the right and tap the button \nSettings\n\n\n\n\nIn the same way, to delete an item, slide it to the right and tap the button \nDelete\n\n\n.\n\n\nAt the end of this tutorial your Shopping list is ready.\n\n\nRefer to the tutorial \nSum\n (Total Purchased) to learn more about this section.",
+            "title": "Items"
+        },
+        {
+            "location": "/items/#tutorial-items",
+            "text": "After you follow the steps on the  Custom Lists  tutorial and create a new list, you can start to add items to it.",
+            "title": "Tutorial - Items"
+        },
+        {
+            "location": "/items/#add-items-to-the-list",
+            "text": "To create a new Item tap the button 'Add'   On the window  Add a new item , you can type or use Google's native voice recognition to add an item to the list.    After write or speak the name of the item, tap  NEW  to add it to the list.    The list is ordered alphabetically.   It's possible to use the colour system to group items by section or similarity. This helps you to save time while doing your shopping. For example, for a market shopping list you can group fruits and vegetables in green, frozen food in blue, bakery in pink, etc.   Example of a list using different colours     Each coloured block is a sub-list inside your list.   While shopping, once you put an item into the basket, select it ( strikethrough it ) to indicate that it's already purchased. To select an item, just tap it.   The selected item is sent to the end of the list of the coloured block that it belongs.   Example of a list with selected ( strikethrough ) items    To deselect an item, tap it again.",
+            "title": "Add Items to the List"
+        },
+        {
+            "location": "/items/#edit-or-delete-an-item",
+            "text": "You can edit an item to change its name or its color. For that, slide it to the right and tap the button  Settings   In the same way, to delete an item, slide it to the right and tap the button  Delete  .  At the end of this tutorial your Shopping list is ready.  Refer to the tutorial  Sum  (Total Purchased) to learn more about this section.",
+            "title": "Edit or Delete an Item"
         },
         {
             "location": "/total_amount/",
@@ -72,12 +72,12 @@
         },
         {
             "location": "/menu_options/",
-            "text": "Tutorial - Menu Options\n\n\nAt the upper-right corner of your lists you'll find a Menu with these five options:\n\n\n\n\nCheck all items\n\n\nUncheck all items\n\n\nRemove all items values\n\n\nRemove all checked items\n\n\nRemove all items\n\n\n\n\n\n\nCheck all items\n\n\nBy tapping this option, you're selecting (\nstrikethrough\n) all items from your list at once.\n\n\n\n\nJust remember that the selection of an item doesn't decrease its value from the sum. This option is to help you to know what items are already purchased.\n\n\n\n\nUncheck all items\n\n\nThis option comes in handy when you want to \nreuse\n the list: you can deselect all items at once to use them again.\n\n\nRemove all items values\n\n\nThis is another option for the \nreuse\n of the list: whether you want to reuse the entire list or just some of its items, you can remove all values at once and type them again when doing your next shopping.\n\n\n\n\nThis option changes all values to 0 (zero) and all 'qty' to 1 (one).\n\n\n\n\nRemove all checked items\n\n\nYou can use this option to remove the items that you've purchased, but you don't want to buy them again using this same list.\n\n\nRemove all items\n\n\nThis option clears your list. It makes your list like new so you can start a new one from scratch.",
+            "text": "Tutorial - Menu Options\n\n\nAt the upper-right corner of your list you'll find a Menu with these five options:\n\n\n\n\nCheck all items\n\n\nUncheck all items\n\n\nRemove all items values\n\n\nRemove all checked items\n\n\nRemove all items\n\n\n\n\n\n\nCheck all items\n\n\nBy tapping this option, you're selecting (\nstrikethrough\n) all items from your list at once.\n\n\n\n\nJust remember that the selection of an item doesn't decrease its value from the sum. This option is to help you to know what items are already purchased.\n\n\n\n\nUncheck all items\n\n\nThis option comes in handy when you want to \nreuse\n the list: you can deselect all items at once to use them again.\n\n\nRemove all items values\n\n\nThis is another option for the \nreuse\n of the list: whether you want to reuse the entire list or just some of its items, you can remove all values at once and type them again when doing your next shopping.\n\n\n\n\nThis option changes all values to 0 (zero) and all 'qty' to 1 (one).\n\n\n\n\nRemove all checked items\n\n\nYou can use this option to reuse a list for some items. For that, deselect the items you want to maintain, and remove all the rest.\n\n\nRemove all items\n\n\nThis option clears your list. It makes your list like new so you can start a new one from scratch.",
             "title": "Menu options"
         },
         {
             "location": "/menu_options/#tutorial-menu-options",
-            "text": "At the upper-right corner of your lists you'll find a Menu with these five options:   Check all items  Uncheck all items  Remove all items values  Remove all checked items  Remove all items",
+            "text": "At the upper-right corner of your list you'll find a Menu with these five options:   Check all items  Uncheck all items  Remove all items values  Remove all checked items  Remove all items",
             "title": "Tutorial - Menu Options"
         },
         {
@@ -97,7 +97,7 @@
         },
         {
             "location": "/menu_options/#remove-all-checked-items",
-            "text": "You can use this option to remove the items that you've purchased, but you don't want to buy them again using this same list.",
+            "text": "You can use this option to reuse a list for some items. For that, deselect the items you want to maintain, and remove all the rest.",
             "title": "Remove all checked items"
         },
         {
