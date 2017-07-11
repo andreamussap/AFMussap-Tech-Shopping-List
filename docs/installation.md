@@ -1,4 +1,4 @@
-## Download and Install Shopping List
+## Download and Install Shopping List App
 
 The easiest way to download and install the Shopping List App developed by AFMussap Tech in your smartphone is to [click here](https://play.google.com/store/apps/details?id=mussapappsshoppinglist.fmussap.com.shoppinglist) and access it straightway on Google Play. 
 

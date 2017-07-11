@@ -46,4 +46,4 @@ To delete **all** lists at once just tap the List Menu button (see image below) 
 
 At the end of this tutorial, you will have your Shopping list ready to be populated with its items.
 
-Now refer to the tutorial **Items** to learn more about this section.
+Refer to the tutorial **Items** to learn more about this section.

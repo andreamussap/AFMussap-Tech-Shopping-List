@@ -1,20 +1,20 @@
 # Tutorial - Items
 
-After you follow the steps from the previous tutorial - **Custom Lists** - and create a new list you can start to add items to it.
+After you follow the steps on the **Custom Lists** tutorial and create a new list, you can start to add items to it.
 
 ## Add Items to the List
 
-To create a new Item, tap the button 'Add'
+To create a new Item tap the button 'Add'
 
 ![](/images/shop-list-button-new-list.png "Add a new item")
 
-On the window **Add a new item**, you can type a name or use Google's native voice recognition to add an item to the list.
+On the window **Add a new item**, you can type or use Google's native voice recognition to add an item to the list.
 
 ![](/images/items_02.jpg)
 
 ![](/images/items_04.jpg)
 
-After write or speech the name of the item, tap **NEW** to add the item to the list. 
+After write or speak the name of the item, tap **NEW** to add it to the list. 
 
 > The list is ordered alphabetically.
 
@@ -26,7 +26,7 @@ It's possible to use the colour system to group items by section or similarity. 
 
 > Each coloured block is a sub-list inside your list.
 
-While shopping, once you put an item into the basket, select it (~~strikethrough it~~) for you to know what's already purchased. To select an item, just tap it. 
+While shopping, once you put an item into the basket, select it (~~strikethrough it~~) to indicate that it's already purchased. To select an item, just tap it. 
 
 The selected item is sent to the end of the list of the coloured block that it belongs.
 
@@ -48,4 +48,4 @@ In the same way, to delete an item, slide it to the right and tap the button *De
 
 At the end of this tutorial your Shopping list is ready.
 
-Refer to the tutorial **Sum** (Total Purchased )to learn more about this section.
+Refer to the tutorial **Sum** (Total Purchased) to learn more about this section.

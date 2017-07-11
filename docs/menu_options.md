@@ -1,6 +1,6 @@
 # Tutorial - Menu Options
 
-At the upper-right corner of your lists you'll find a Menu with these five options:
+At the upper-right corner of your list you'll find a Menu with these five options:
 
 * Check all items
 * Uncheck all items
@@ -29,7 +29,7 @@ This is another option for the **reuse** of the list: whether you want to reuse 
 
 ## Remove all checked items
 
-You can use this option to remove the items that you've purchased, but you don't want to buy them again using this same list.
+You can use this option to reuse a list for some items. For that, deselect the items you want to maintain, and remove all the rest.
 
 ## Remove all items
 

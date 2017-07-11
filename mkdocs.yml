@@ -3,8 +3,8 @@ pages:
 - Overview: 'index.md'
 - Installation: 'installation.md'
 - Features:
-   - Items: 'items.md'
    - Custom Lists: 'custom_lists.md'
+   - Items: 'items.md'
    - Sum: 'total_amount.md'
    - Menu options: 'menu_options.md'
 - Contact Developer: 'contact.md'
