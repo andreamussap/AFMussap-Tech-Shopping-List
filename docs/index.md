@@ -13,8 +13,6 @@ If you said **yes** to any of these questions, then **Shopping List App** is for
 
 Look how cool a shopping list can be!!
 
-> Items in a List
-
 
 ![](/images/overview-04.jpg)
 
