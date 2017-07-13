@@ -14,4 +14,5 @@ markdown_extensions:
 - pymdownx.tilde
 - pymdownx.magiclink
 - pymdownx.critic
+- pymdownx.tasklist
 - admonition
