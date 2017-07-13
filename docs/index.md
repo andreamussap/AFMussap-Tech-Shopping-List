@@ -7,17 +7,17 @@
 * [x] Would you like to speak your shopping list instead of write/type it?
 * [x] Would you like to be able to reuse your shopping list?
 
-If you said *Yes* to these questions, then **Shopping List App** is for you.
+If you said **yes** to any of these questions, then **Shopping List App** is for you.
 
 **AFMussap Tech** developed the Shopping List App to improve your shopping experience. The App allows colors and _emoji_ to help you to better organize your lists, and also have some fun! Why not?
 
 Look how cool a shopping list can be!!
 
 > Custom List
-![](/images/overview-02.png)
+![](/images/overview-02.jpg)
 
 > Items in a List
-![](/images/overview-02.png)
+![](/images/overview-04.jpg)
 
 
 ## About Shopping List App
