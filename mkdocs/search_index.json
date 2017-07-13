@@ -112,7 +112,7 @@
         },
         {
             "location": "/contact/",
-            "text": "Contact the Developer\n\n\nIf you'd like to contact the \nAFMussap Tech Developer\n just send us an email: \nafmussaptech@gmail.com\n\n\nRate the App\n\n\nIf you like the \nShopping List\n App developed by AFMussap Tech please rate us at \nGoogle Play\n\n\nOther Apps developed by AFMussap Tech Developer\n\n\n\n\nFuel Tracker\n\nFuel Tracker allows you to register your vehicles and record each supply made.\n\n\nEveryPill Reminder\ncomming soon...",
+            "text": "Contact the Developer\n\n\nIf you'd like to contact the \nAFMussap Tech Developer\n just send us an email: \nafmussaptech@gmail.com\n\n\nRate the App\n\n\nIf you like the \nShopping List\n App developed by AFMussap Tech please rate us at \nGoogle Play\n\n\nOther Apps developed by AFMussap Tech\n\n\n\n\nFuel Tracker\n\nFuel Tracker allows you to register your vehicles and record each supply made.\n\n\nEveryPill Reminder\ncoming soon...",
             "title": "Contact Developer"
         },
         {
@@ -126,9 +126,9 @@
             "title": "Rate the App"
         },
         {
-            "location": "/contact/#other-apps-developed-by-afmussap-tech-developer",
-            "text": "Fuel Tracker \nFuel Tracker allows you to register your vehicles and record each supply made.  EveryPill Reminder\ncomming soon...",
-            "title": "Other Apps developed by AFMussap Tech Developer"
+            "location": "/contact/#other-apps-developed-by-afmussap-tech",
+            "text": "Fuel Tracker \nFuel Tracker allows you to register your vehicles and record each supply made.  EveryPill Reminder\ncoming soon...",
+            "title": "Other Apps developed by AFMussap Tech"
         }
     ]
 }
